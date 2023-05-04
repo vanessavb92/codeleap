@@ -6,7 +6,7 @@ export const HeaderStyle = styled.header`
     display: flex;
     align-items:center;
     justify-content:space-between;
-    background-color: #1E90FF;
+    background-color: #7695EC;
     color: white;
     padding: 0 2.4rem;
     @media screen and (max-width:560px){

@@ -5,7 +5,7 @@ export const PostEditModalStyleStyle = styled.div`
     display: flex;
     align-items:center;
     justify-content:center;
-    background-color:#777777CC;
+    background-color:#7695EC;
     top: 0;
     bottom: 0;
     right: 0;

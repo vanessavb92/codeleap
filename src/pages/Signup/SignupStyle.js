@@ -7,6 +7,6 @@ export const SignupStyle = styled.section`
     flex-direction:column;
     align-items:center;
     justify-content: center;
-    background-color:#DDDDDD;
+    background-color:#20B2AA;
     padding: 0 1rem;
 `

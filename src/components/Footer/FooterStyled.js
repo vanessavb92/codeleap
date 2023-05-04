@@ -6,7 +6,7 @@ export const FooterStyled = styled.footer`
     display: flex;
     align-items:center;
     justify-content:center;
-    background-color:#1E90FF;
+    background-color:#7695EC;
     margin-top: auto;
 
     h6{

@@ -44,7 +44,7 @@ const SignupModal = () => {
       <div className="divButton">
         <Button
           type="submit"
-          bgcolor="#000"
+          bgcolor="#7695EC;          "
           textColor="#ffff"
           onClick={handleClick}
           disabled={disable}

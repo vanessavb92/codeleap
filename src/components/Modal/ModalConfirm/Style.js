@@ -28,7 +28,8 @@ export const ModalConfirmStyle = styled.form`
     button{
         &:hover{
             color: white;
-            background-color:black;
+            background-color:#7695EC
+            ;
             border: none;
         }
     }

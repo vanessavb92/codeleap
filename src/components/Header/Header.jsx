@@ -11,7 +11,7 @@ const Header = () => {
   if (location.pathname !== "/signup") {
     return (
       <HeaderStyle>
-          <h1>Engeneering Test</h1>
+          <h1>CodeLeap Network</h1>
           <h2>{data}</h2>
       </HeaderStyle>
     );

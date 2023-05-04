@@ -63,13 +63,13 @@ const PostCreate = ({ setLoading }) => {
             rows="5"
             cols="54"
             resize="none"
-            bgcolor="#8B008B"
+            bgcolor="#7695EC;            "
             border={true}
             {...content}
           />
         </div>
       </div>
-      <Button type="Submit" bgcolor="#1E90FF" textColor="#ffff" disabled={disable}>
+      <Button type="Submit" bgcolor="#7695EC;" textColor="#ffff" disabled={disable}>
         CREATE
       </Button>
     </PostCreateStyle>
